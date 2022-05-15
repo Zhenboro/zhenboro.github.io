@@ -1,0 +1,260 @@
+10:54:30 p. m. 06/04/2022 [!!!] [Init] Borocito 0.2.1.0 (03.04.20.22) has started! 10:54:30 p. m. 06/04/2022
+10:54:30 p. m. 06/04/2022 [!!!] [OnlyOneInstance@StartUp] Checking instances...
+10:54:30 p. m. 06/04/2022 [!!!] [OnlyOneInstance@StartUp] No instances detected!, starting...
+10:54:30 p. m. 06/04/2022 [StartWithWindows@StartUp] Making Borocito start with Windows...
+10:54:30 p. m. 06/04/2022 [AlreadyExist@StartUp] Checking if exist
+10:54:30 p. m. 06/04/2022 [AlreadyExist@StartUp] I exist, but badly borned.
+10:54:30 p. m. 06/04/2022 [SaveRegedit@Memory] Saving data...
+10:54:30 p. m. 06/04/2022 [LoadRegedit@Memory] Loading data...
+10:54:31 p. m. 06/04/2022 [ReportMeToServer@Network] Response: OK
+10:54:32 p. m. 06/04/2022 [CreateCMDFile@Network] Response: OK
+10:54:32 p. m. 06/04/2022 [SetExistence@StartUp] Setting the existente in the Windows Registry
+
+10:54:33 p. m. 06/04/2022 [!!!] [Init] Borocito 0.2.1.0 (03.04.20.22) has started! 10:54:33 p. m. 06/04/2022
+10:54:33 p. m. 06/04/2022 [!!!] [OnlyOneInstance@StartUp] Checking instances...
+10:54:33 p. m. 06/04/2022 [!!!] [OnlyOneInstance@StartUp] No instances detected!, starting...
+10:54:33 p. m. 06/04/2022 [StartWithWindows@StartUp] Making Borocito start with Windows...
+10:54:33 p. m. 06/04/2022 [AlreadyExist@StartUp] Checking if exist
+10:54:33 p. m. 06/04/2022 [AlreadyExist@StartUp] Already exist. Im here!
+10:54:33 p. m. 06/04/2022 [LoadRegedit@Memory] Loading data...
+10:54:33 p. m. 06/04/2022 [ServerConfigFiles@Network] Reading server configuration...
+10:57:33 p. m. 06/04/2022 [ReadCommandFile@Network] Processing: MsgBox=hola! este es un mensaje,0,Bienvenido!
+10:57:33 p. m. 06/04/2022 [SendCommandResponse@Network] Sending: Ejecuted MsgBox=hola! este es un mensaje,0,Bienvenido! 10:57:33 p. m. 06/04/2022
+10:57:33 p. m. 06/04/2022 [SendCommandResponse@Network] Response: OK
+10:58:42 p. m. 06/04/2022 [ReadCommandFile@Network] Processing: /Windows.Process.Start=cmd.exe,/c echo hola 
+11:20:32 p. m. 06/04/2022 [SendCommandResponse@Network] Sending: Sending located telemetry...
+11:20:32 p. m. 06/04/2022 [SendCommandResponse@Network] Response: OK
+11:21:20 p. m. 06/04/2022 [ReadCommandFile@Network] Processing: /Status
+11:21:20 p. m. 06/04/2022 [SendCommandResponse@Network] Sending: Borocito v0.2.1.0 (03.04.20.22). Running in DESKTOP-8J6KLN3\Zhenboro
+11:21:20 p. m. 06/04/2022 [SendCommandResponse@Network] Response: OK
+11:22:50 p. m. 06/04/2022 [ReadCommandFile@Network] Processing: boro-get status
+11:22:50 p. m. 06/04/2022 [BOROGET] Processing: boro-get status
+11:22:50 p. m. 06/04/2022 [SendCommandResponse@Network] Sending: No installed
+11:22:50 p. m. 06/04/2022 [SendCommandResponse@Network] Response: OK
+11:22:55 p. m. 06/04/2022 [!!!] [ReadCommandFile@Network] Error: Índice fuera de los límites de la matriz.
+11:23:01 p. m. 06/04/2022 [ReadCommandFile@Network] Processing: boro-get install
+11:23:01 p. m. 06/04/2022 [BOROGET] Processing: boro-get install
+11:23:01 p. m. 06/04/2022 [BOROGET] Installing boro-get...
+11:23:01 p. m. 06/04/2022 [BOROGET] Downloading boro-get...
+11:23:01 p. m. 06/04/2022 [BOROGET] Extracting boro-get...
+11:23:01 p. m. 06/04/2022 [SendCommandResponse@Network] Sending: boro-get has been installed!
+11:23:01 p. m. 06/04/2022 [SendCommandResponse@Network] Response: OK
+11:23:22 p. m. 06/04/2022 [ReadCommandFile@Network] Processing: boro-get status
+11:23:22 p. m. 06/04/2022 [BOROGET] Processing: boro-get status
+11:23:22 p. m. 06/04/2022 [SendCommandResponse@Network] Sending: Installed! (boro-get 1.1.0.0)
+11:23:23 p. m. 06/04/2022 [SendCommandResponse@Network] Response: OK
+11:24:33 p. m. 06/04/2022 [Network] Sending telemetry...
+
+11:26:27 p. m. 06/04/2022 [ReadCommandFile@Network] Processing: boro-get broKiloger True /startrecording
+11:26:27 p. m. 06/04/2022 [BOROGET] Processing: boro-get broKiloger True /startrecording
+11:26:28 p. m. 06/04/2022 [SendCommandResponse@Network] Sending: Processing Package (broKiloger True /startrecording)
+11:26:28 p. m. 06/04/2022 [SendCommandResponse@Network] Response: OK
+11:27:58 p. m. 06/04/2022 [ReadCommandFile@Network] Processing: boro-get broKiloger True /sendrecord
+11:27:58 p. m. 06/04/2022 [BOROGET] Processing: boro-get broKiloger True /sendrecord
+11:27:58 p. m. 06/04/2022 [SendCommandResponse@Network] Sending: Processing Package (broKiloger True /sendrecord)
+11:27:58 p. m. 06/04/2022 [SendCommandResponse@Network] Response: OK
+11:29:12 p. m. 06/04/2022 [ReadCommandFile@Network] Processing: boro-get broKiloger True /sendandexit
+11:29:12 p. m. 06/04/2022 [BOROGET] Processing: boro-get broKiloger True /sendandexit
+11:29:12 p. m. 06/04/2022 [SendCommandResponse@Network] Sending: Processing Package (broKiloger True /sendandexit)
+11:29:12 p. m. 06/04/2022 [SendCommandResponse@Network] Response: OK
+11:30:58 p. m. 06/04/2022 [ReadCommandFile@Network] Processing: SendTelemetry()
+11:30:58 p. m. 06/04/2022 [SendCommandResponse@Network] Sending: Ejecuted SendTelemetry() 11:30:58 p. m. 06/04/2022
+11:30:58 p. m. 06/04/2022 [SendCommandResponse@Network] Response: OK
+11:31:14 p. m. 06/04/2022 [ReadCommandFile@Network] Processing: /Stop
+11:31:14 p. m. 06/04/2022 [SendCommandResponse@Network] Sending: Borocito has been called to close
+11:31:14 p. m. 06/04/2022 [SendCommandResponse@Network] Response: OK
+11:31:14 p. m. 06/04/2022 [!!!] [Network] Borocito has been called to close!
+11:31:14 p. m. 06/04/2022 [Network] Sending telemetry...
+
+11:39:44 p. m. 06/04/2022 [!!!] [Init] Borocito 0.2.1.0 (03.04.20.22) has started! 11:39:44 p. m. 06/04/2022
+11:39:44 p. m. 06/04/2022 [!!!] [OnlyOneInstance@StartUp] Checking instances...
+11:39:44 p. m. 06/04/2022 [!!!] [OnlyOneInstance@StartUp] No instances detected!, starting...
+11:39:44 p. m. 06/04/2022 [StartWithWindows@StartUp] Making Borocito start with Windows...
+11:39:44 p. m. 06/04/2022 [AlreadyExist@StartUp] Checking if exist
+11:39:44 p. m. 06/04/2022 [AlreadyExist@StartUp] Already exist. Im here!
+11:39:44 p. m. 06/04/2022 [LoadRegedit@Memory] Loading data...
+11:39:44 p. m. 06/04/2022 [ServerConfigFiles@Network] Reading server configuration...
+11:39:50 p. m. 06/04/2022 [ReadCommandFile@Network] Processing: /Payloads.Upload.File=C:\Users\%username%\AppData\Local\Microsoft\Borocito\Borocito.log,null
+11:39:50 p. m. 06/04/2022 [SendCustomTelemetryFile@Network] Sending file to telemetry...
+11:39:50 p. m. 06/04/2022 [SendCustomTelemetryFile@Network] A file was sended as telemetry. Borocito.log
+11:39:50 p. m. 06/04/2022 [Payloads] File uploaded!
+11:39:50 p. m. 06/04/2022 [SendCommandResponse@Network] Sending: [uploadAfile@Payloads]File uploaded!
+11:39:50 p. m. 06/04/2022 [SendCommandResponse@Network] Response: OK
+11:42:55 p. m. 06/04/2022 [!!!] [SessionEvent] System is shutting down!
+11:42:55 p. m. 06/04/2022 [Network] Sending telemetry...
+
+11:03:13 p. m. 08/04/2022 [!!!] [Init] Borocito 0.2.1.0 (03.04.20.22) has started! 11:03:13 p. m. 08/04/2022
+11:03:13 p. m. 08/04/2022 [!!!] [OnlyOneInstance@StartUp] Checking instances...
+11:03:13 p. m. 08/04/2022 [!!!] [OnlyOneInstance@StartUp] No instances detected!, starting...
+11:03:13 p. m. 08/04/2022 [StartWithWindows@StartUp] Making Borocito start with Windows...
+11:03:13 p. m. 08/04/2022 [AlreadyExist@StartUp] Checking if exist
+11:03:13 p. m. 08/04/2022 [AlreadyExist@StartUp] Already exist. Im here!
+11:03:13 p. m. 08/04/2022 [LoadRegedit@Memory] Loading data...
+11:03:13 p. m. 08/04/2022 [ServerConfigFiles@Network] Reading server configuration...
+11:33:12 p. m. 08/04/2022 [Network] Sending telemetry...
+
+11:48:51 p. m. 08/04/2022 [!!!] [SessionEvent] System is shutting down!
+11:48:51 p. m. 08/04/2022 [Network] Sending telemetry...
+
+11:51:19 p. m. 08/04/2022 [!!!] [Init] Borocito 0.2.1.0 (03.04.20.22) has started! 11:51:19 p. m. 08/04/2022
+11:51:19 p. m. 08/04/2022 [!!!] [OnlyOneInstance@StartUp] Checking instances...
+11:51:19 p. m. 08/04/2022 [!!!] [OnlyOneInstance@StartUp] No instances detected!, starting...
+11:51:19 p. m. 08/04/2022 [StartWithWindows@StartUp] Making Borocito start with Windows...
+11:51:19 p. m. 08/04/2022 [AlreadyExist@StartUp] Checking if exist
+11:51:19 p. m. 08/04/2022 [AlreadyExist@StartUp] Already exist. Im here!
+11:51:19 p. m. 08/04/2022 [LoadRegedit@Memory] Loading data...
+11:51:19 p. m. 08/04/2022 [ServerConfigFiles@Network] Reading server configuration...
+11:53:21 p. m. 08/04/2022 [!!!] [SessionEvent] System is shutting down!
+11:53:21 p. m. 08/04/2022 [Network] Sending telemetry...
+
+12:02:42 a. m. 09/04/2022 [!!!] [Init] Borocito 0.2.1.0 (03.04.20.22) has started! 12:02:42 a. m. 09/04/2022
+12:02:42 a. m. 09/04/2022 [!!!] [OnlyOneInstance@StartUp] Checking instances...
+12:02:42 a. m. 09/04/2022 [!!!] [OnlyOneInstance@StartUp] No instances detected!, starting...
+12:02:42 a. m. 09/04/2022 [StartWithWindows@StartUp] Making Borocito start with Windows...
+12:02:43 a. m. 09/04/2022 [AlreadyExist@StartUp] Checking if exist
+12:02:43 a. m. 09/04/2022 [AlreadyExist@StartUp] Already exist. Im here!
+12:02:43 a. m. 09/04/2022 [LoadRegedit@Memory] Loading data...
+12:02:43 a. m. 09/04/2022 [ServerConfigFiles@Network] Reading server configuration...
+12:32:43 a. m. 09/04/2022 [Network] Sending telemetry...
+
+01:02:43 a. m. 09/04/2022 [Network] Sending telemetry...
+
+01:32:43 a. m. 09/04/2022 [Network] Sending telemetry...
+
+01:53:38 a. m. 09/04/2022 [!!!] [SessionEvent] System is shutting down!
+01:53:38 a. m. 09/04/2022 [Network] Sending telemetry...
+
+03:46:41 p. m. 09/04/2022 [!!!] [Init] Borocito 0.2.1.0 (03.04.20.22) has started! 03:46:41 p. m. 09/04/2022
+03:46:41 p. m. 09/04/2022 [!!!] [OnlyOneInstance@StartUp] Checking instances...
+03:46:41 p. m. 09/04/2022 [!!!] [OnlyOneInstance@StartUp] No instances detected!, starting...
+03:46:41 p. m. 09/04/2022 [StartWithWindows@StartUp] Making Borocito start with Windows...
+03:46:41 p. m. 09/04/2022 [AlreadyExist@StartUp] Checking if exist
+03:46:41 p. m. 09/04/2022 [AlreadyExist@StartUp] Already exist. Im here!
+03:46:41 p. m. 09/04/2022 [LoadRegedit@Memory] Loading data...
+03:46:41 p. m. 09/04/2022 [ServerConfigFiles@Network] Reading server configuration...
+04:16:41 p. m. 09/04/2022 [Network] Sending telemetry...
+
+04:46:42 p. m. 09/04/2022 [Network] Sending telemetry...
+
+05:16:42 p. m. 09/04/2022 [Network] Sending telemetry...
+
+05:25:24 p. m. 09/04/2022 [!!!] [SessionEvent] System is shutting down!
+05:25:24 p. m. 09/04/2022 [Network] Sending telemetry...
+
+10:40:09 p. m. 13/04/2022 [!!!] [Init] Borocito 0.2.1.0 (03.04.20.22) has started! 10:40:09 p. m. 13/04/2022
+10:40:09 p. m. 13/04/2022 [!!!] [OnlyOneInstance@StartUp] Checking instances...
+10:40:09 p. m. 13/04/2022 [!!!] [OnlyOneInstance@StartUp] No instances detected!, starting...
+10:40:09 p. m. 13/04/2022 [StartWithWindows@StartUp] Making Borocito start with Windows...
+10:40:09 p. m. 13/04/2022 [AlreadyExist@StartUp] Checking if exist
+10:40:09 p. m. 13/04/2022 [AlreadyExist@StartUp] Already exist. Im here!
+10:40:09 p. m. 13/04/2022 [LoadRegedit@Memory] Loading data...
+10:40:09 p. m. 13/04/2022 [ServerConfigFiles@Network] Reading server configuration...
+11:10:09 p. m. 13/04/2022 [Network] Sending telemetry...
+
+02:58:05 a. m. 14/04/2022 [Network] Sending telemetry...
+
+07:17:53 p. m. 22/04/2022 [!!!] [Init] Borocito 0.2.1.0 (22.04.20.22) has started! 07:17:53 p. m. 22/04/2022
+07:17:58 p. m. 22/04/2022 [!!!] [OnlyOneInstance@StartUp] Checking instances...
+07:17:58 p. m. 22/04/2022 [!!!] [OnlyOneInstance@StartUp] No instances detected!, starting...
+07:17:58 p. m. 22/04/2022 [StartWithWindows@StartUp] Making Borocito start with Windows...
+07:17:58 p. m. 22/04/2022 [AlreadyExist@StartUp] Checking if exist
+07:17:58 p. m. 22/04/2022 [AlreadyExist@StartUp] Already exist. Im here!
+07:17:58 p. m. 22/04/2022 [LoadRegedit@Memory] Loading data...
+07:17:58 p. m. 22/04/2022 [ServerConfigFiles@Network] Reading server configuration...
+07:18:04 p. m. 22/04/2022 [ProccessCommand@Network] Processing: /Windows.Process.Get('svchost')
+07:19:13 p. m. 22/04/2022 [SendCommandResponse@Network] Sending: Ejecuted /Windows.Process.Get('svchost') 07:19:13 p. m. 22/04/2022
+07:19:14 p. m. 22/04/2022 [SendCommandResponse@Network] Response: OK
+07:19:40 p. m. 22/04/2022 [ProccessCommand@Network] Processing: /Windows.Process.Get('svchost')
+07:20:03 p. m. 22/04/2022 [SendCommandResponse@Network] Sending: True (63)
+07:20:04 p. m. 22/04/2022 [SendCommandResponse@Network] Response: OK
+07:22:15 p. m. 22/04/2022 [ProccessCommand@Network] Processing: /Stop
+07:22:17 p. m. 22/04/2022 [SendCommandResponse@Network] Sending: Borocito has been called to close
+07:22:17 p. m. 22/04/2022 [SendCommandResponse@Network] Response: OK
+07:22:17 p. m. 22/04/2022 [!!!] [Network] Borocito has been called to close!
+07:22:17 p. m. 22/04/2022 [Network] Sending telemetry...
+
+01:37:50 p. m. 24/04/2022 [!!!] [Init] Borocito 0.2.1.0 (22.04.20.22) has started! 01:37:50 p. m. 24/04/2022
+01:37:52 p. m. 24/04/2022 [!!!] [OnlyOneInstance@StartUp] Checking instances...
+01:37:52 p. m. 24/04/2022 [!!!] [OnlyOneInstance@StartUp] No instances detected!, starting...
+01:37:52 p. m. 24/04/2022 [StartWithWindows@StartUp] Making Borocito start with Windows...
+01:37:52 p. m. 24/04/2022 [AlreadyExist@StartUp] Checking if exist
+01:37:52 p. m. 24/04/2022 [AlreadyExist@StartUp] Already exist. Im here!
+01:37:52 p. m. 24/04/2022 [LoadRegedit@Memory] Loading data...
+01:37:52 p. m. 24/04/2022 [ServerConfigFiles@Network] Reading server configuration...
+02:07:52 p. m. 24/04/2022 [Network] Sending telemetry...
+
+02:37:52 p. m. 24/04/2022 [Network] Sending telemetry...
+
+02:50:23 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+02:50:49 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+02:51:15 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+02:51:41 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+02:52:07 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+02:52:33 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+02:52:59 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+02:53:25 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+02:53:51 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+02:54:17 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+02:54:43 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+02:55:09 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+02:55:35 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+02:56:01 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+02:56:27 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+02:56:53 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+02:57:19 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+02:57:45 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+02:58:11 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+02:58:38 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+02:59:04 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+02:59:30 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+02:59:56 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:00:22 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:00:48 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:01:14 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:01:40 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:02:06 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:02:32 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:02:58 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:03:24 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:03:50 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:04:16 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:04:42 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:05:08 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:05:34 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:06:00 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:06:26 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:06:53 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:07:19 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:07:45 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:07:52 p. m. 24/04/2022 [Network] Sending telemetry...
+03:08:11 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:08:13 p. m. 24/04/2022 [!!!] [SendTelemetry@Network] Error: No es posible conectar con el servidor remoto
+03:08:37 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:09:03 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:09:29 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:09:55 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:10:21 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:10:47 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:11:13 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:11:39 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:12:05 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:12:31 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:12:57 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:13:23 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:13:49 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:14:15 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:14:41 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:15:08 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:15:34 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:16:00 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:16:26 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:16:52 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:17:18 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:17:44 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:18:10 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:18:36 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:19:02 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:19:28 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:19:54 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:20:20 p. m. 24/04/2022 [!!!] [ReadCommandFile@Network] Error: No es posible conectar con el servidor remoto
+03:38:13 p. m. 24/04/2022 [Network] Sending telemetry...

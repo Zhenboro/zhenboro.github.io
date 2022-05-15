@@ -1,0 +1,77 @@
+#WorInstaller 4.2.1.0 (13.08.20.21) | CWS  | 18/12/2021 02:15:28 a. m. | Telemetry Installer
+[Installer]
+ID=xfxy1vmGjMSvF3LuTgK8AKPX0WaaPQDTSZ8
+InstallerCompilation=4.2.1.0, 13.08.20.21
+User=Zhenboro
+IdiomaAPP=Spanish
+AssemblyName=CWS
+AssemblyVersion=1.0.0.0
+PackageName=CWS
+IsComponent=False
+PassByCustom=False
+PackageSize=0
+StartParametros=
+[Parameters]
+IsSilentMode=False
+UserKnow=False
+AlreadyInstalled=True
+InstallMode=True
+UpdateMode=False
+ReinstallMode=False
+DowngradeForce=False
+AllUsersInstall=True
+PacketExchange=False
+IsCommandPromptMode=False
+DownloadPackageFile=
+[Online]
+ServerAssemblyName=
+ServerAssemblyVersion=
+ServerInstallerStatus=
+AppImageLocation=/images/AppsImage/Icons/CWS.png
+[Paths]
+DIRInstallFolder=C:\Program Files (x86)\Worcome Studios\CWS
+DIRCommons=C:\Users\Zhenboro\AppData\Local\Temp\WorInstaller
+[Offline]
+InstallerVersion=1.0.0.0
+LocalVersion=1.0.0.0
+UpdateAssistant=False
+[Forms]
+InstallStatus=
+InstallStatusReason=
+LocationX,Y=637,249
+StartupPath=C:\Users\Zhenboro\Desktop\proyectos\WorInstall Inject\CWS Installer.exe
+
+[Computer]
+Name=DESKTOP-8J6KLN3 or DESKTOP-8J6KLN3
+SO=Microsoft Windows 10 Pro6.2.9200.0
+RAM=8588910592
+BitsArch=64 (0)
+Screen={X=0,Y=0,Width=1920,Height=1080} (Area en Uso: {X=0,Y=0,Width=1920,Height=1040})
+Languaje=español (España, alfabetización internacional)
+TimeAndDate=02:15:28a. m.@18/12/2021
+MemoryDiskSerialNumber=VMWare NVME_0000
+SerialNumber=None
+
+[Log]
+#Installer Log
+[!!!][02:15:24a. m.](Inicializador)Debugger Iniciado!
+[02:15:24a. m.](Inicializador)Procesando linea de argumentos:
+[02:15:24a. m.](Inicializador)    Ningun parametro
+[!!!][02:15:24a. m.](Inicializador)Modificado por STUB oficial
+[02:15:24a. m.](Inicializador)Modo obligado: Online
+[!!!][02:15:24a. m.](Inicializador)Inicio de AppService...
+[!!!][02:15:25a. m.](Inicializador)WorInstaller tiene permisos de Administrador otorgados por el Usuario
+[02:15:25a. m.](Wor Installer)ONE Form iniciado
+[!!!][02:15:25a. m.](CWS 1.0.0.0 - Installer | Wor Installer)Ya se ha instalado esta Aplicacion:
+   Ensamblado: CWS
+   Version: 1.0.0.0
+   Instalado: 18/12/2021 @ 02:15:13:a. m.
+   Iniciado: 18/12/2021 02:15:13 a. m.
+   Directorio: C:\Program Files (x86)\Worcome Studios\CWS
+   Users Install: 
+[02:15:25a. m.](CWS 1.0.0.0 - Installer | Wor Installer)La aplicacion actual es la misma a la que se va a Instalar
+[02:15:25a. m.](Inicializador)[SecureFormClose]El formulario 'CWS 1.0.0.0 - Installer | Wor Installer' llamo a 'Wor Installer'
+[02:15:25a. m.]()Verificacion de Paquete finalizada.
+[!!!][02:15:28a. m.](Inicializador)Creando telemetria
+[!!!][02:15:28a. m.](Inicializador)Identificacion creada
+[!!!][02:15:28a. m.](Inicializador)FIN DEL SISTEMA DE SERVICIO DE MENSAJES DEL SISTEMA
